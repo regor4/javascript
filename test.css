@@ -1,0 +1,14 @@
+.button {
+    width: 180px;
+    height: 20px;
+    text-align: center;
+    background-color: #C571C1;
+    padding-top: 5px;
+    margin: auto;
+}
+.button:active {
+    background-color: white;
+}
+body {
+     background-color: black;
+}
